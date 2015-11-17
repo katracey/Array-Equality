@@ -1,0 +1,12 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150916_Ch7Arrays_2arraysequal\150916_Ch7Arrays_2arraysequal\bin\Debug\150916_Ch7Arrays_2arraysequal.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150916_Ch7Arrays_2arraysequal\150916_Ch7Arrays_2arraysequal\bin\Debug\150916_Ch7Arrays_2arraysequal.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150916_Ch7Arrays_2arraysequal\150916_Ch7Arrays_2arraysequal\bin\Debug\150916_Ch7Arrays_2arraysequal.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150916_Ch7Arrays_2arraysequal\150916_Ch7Arrays_2arraysequal\obj\Debug\150916_Ch7Arrays_2arraysequal.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150916_Ch7Arrays_2arraysequal\150916_Ch7Arrays_2arraysequal\obj\Debug\150916_Ch7Arrays_2arraysequal.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150916_Ch7Arrays_2arraysequal\150916_Ch7Arrays_2arraysequal\obj\Debug\150916_Ch7Arrays_2arraysequal.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150916_Ch7Arrays_2arraysequal\150916_Ch7Arrays_2arraysequal\bin\Debug\150916_Ch7Arrays_2arraysequal.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150916_Ch7Arrays_2arraysequal\150916_Ch7Arrays_2arraysequal\obj\Debug\150916_Ch7Arrays_2arraysequal.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150916_Ch7Arrays_2arraysequal\150916_Ch7Arrays_2arraysequal\obj\Debug\150916_Ch7Arrays_2arraysequal.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150916_Ch7Arrays_2arraysequal\150916_Ch7Arrays_2arraysequal\bin\Debug\150916_Ch7Arrays_2arraysequal.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150916_Ch7Arrays_2arraysequal\150916_Ch7Arrays_2arraysequal\bin\Debug\150916_Ch7Arrays_2arraysequal.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150916_Ch7Arrays_2arraysequal\150916_Ch7Arrays_2arraysequal\obj\Debug\150916_Ch7Arrays_2arraysequal.csprojResolveAssemblyReference.cache
